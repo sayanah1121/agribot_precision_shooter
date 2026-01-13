@@ -20,4 +20,4 @@ An autonomous robotics project that uses Computer Vision on a Raspberry Pi 5 to 
    ```bash
    mkdir -p ~/ros2_ws/src
    cd ~/ros2_ws/src
-   git clone [https://github.com/YOUR_USERNAME/agribot_precision_sprayer.git](https://github.com/YOUR_USERNAME/agribot_precision_sprayer.git)
+   git clone [https://github.com/sayanah1121/agribot_precision_sprayer.git](https://github.com/sayanah1121/agribot_precision_sprayer.git)
